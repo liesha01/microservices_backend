@@ -2,7 +2,7 @@ package com.ecommerce.inventoryservice.controller;
 
 import com.ecommerce.inventoryservice.dto.InventoryResponse;
 import com.ecommerce.inventoryservice.entity.Inventory;
-import com.ecommerce.inventoryservice.repository.InventoryRepository;
+import com.ecommerce.inventoryservice.repository.InventoryRepository; 
 import com.ecommerce.inventoryservice.service.InventoryService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
