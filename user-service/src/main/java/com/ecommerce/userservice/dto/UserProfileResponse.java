@@ -1,4 +1,4 @@
-package com.ecommerce.userservice.dto;
+ package com.ecommerce.userservice.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
