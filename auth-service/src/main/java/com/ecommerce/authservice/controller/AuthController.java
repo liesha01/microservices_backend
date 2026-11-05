@@ -3,7 +3,7 @@ package com.ecommerce.authservice.controller;
 import com.ecommerce.authservice.dto.*;
 import com.ecommerce.authservice.service.AuthService;
 import lombok.RequiredArgsConstructor;
-import org.springframework.http.ResponseEntity;
+import org.springframework.http.ResponseEntity; 
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
